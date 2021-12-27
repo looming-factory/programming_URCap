@@ -1,4 +1,4 @@
-# URCap per facilitar la programació d'un procés industrial
+# URCap: Node de programació
 Aquest treball de fi de grau es basa en millorar la interacció entre humans i robots industrials,
 concretament un braç robòtic de Universal Robots, el UR3 CB-series. La millora consisteix en el
 disseny i construcció d’una interfície gràfica que permet a l’operador realitzar un conjunt
