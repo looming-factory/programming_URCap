@@ -9,7 +9,7 @@ interacció amb ordres vocals. Per tals objectius, el projecte s’ha dividit en
 
 La primera consisteix en construir una eina visual que permeti programar, parametritzar i simular
 el workflow del procés industrial d’una manera intuïtiva i senzilla per l’usuari. Per tal propòsit
-s’ha programat una URCap, concretament, un node de programació. (**la que conté aquest repositori**)
+s’ha programat una URCap, concretament, un node de programació. (**La que conté aquest repositori**).
 
 La segona consisteix en construir una eina visual que permeti realitzar un seguiment i control del
 procés industrial en execució. Per aquesta part s’ha desenvolupat una aplicació Android.
